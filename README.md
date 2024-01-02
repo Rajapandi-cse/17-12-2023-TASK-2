@@ -1,4 +1,6 @@
     Netlify : https://friendly-kitten-48e402.netlify.app/weather/index.html
+
+    
                                                                           Promise Task
               api Url : https://github.com/public-apis/public-apis   
    Proper vaiable & function names 
